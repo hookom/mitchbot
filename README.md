@@ -4,4 +4,7 @@
  * git clone https://github.com/hookom/mitchbot.git
  * npm i
  * npm install https://github.com/woor/discord.io/tarball/gateway_v6
- * node bot.js
+ * sudo apt-get install tmux
+ * tmux
+ * node bot.js &
+ * ctrl+b, then d
